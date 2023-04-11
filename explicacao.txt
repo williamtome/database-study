@@ -1,0 +1,16 @@
+- cada coluna tem algumas informações sobre ELA:
+-- nome da coluna
+-- tipo da coluna
+-- tamanho da coluna
+-- se a coluna aceita NULL
+-- valor padrão
+
+
+Mais comuns:
+- TINYINT / INT
+- FLOAT
+- VARCHAR / TEXT
+- DATE / TIME / DATETIME / TIMESTAMP
+
+- DATE: YYYY-MM-DD
+- TIME: HH:MM:SS
