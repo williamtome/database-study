@@ -17,6 +17,7 @@ INSERT INTO produtos (nome, preco, estoque, estoque_minimo) VALUES ("Monitor 5' 
 INSERT INTO produtos (nome, preco, estoque, estoque_minimo) VALUES ("PC da Nasa", 4583.99, 2, 1);
 INSERT INTO produtos (nome, preco, estoque, estoque_minimo) VALUES ("PC Ruim", 59.99, 75, 50);
 INSERT INTO produtos (nome, preco, estoque, estoque_minimo) VALUES ("Cubo mágico de 13 faces", 3.5, 324, 350);
+INSERT INTO produtos (nome, preco, estoque, estoque_minimo) VALUES ("Mousepad Gamer", 90, 10, 10);
 
 INSERT INTO fornecedor (nome, telefone) VALUES ('XYZ', '(11) 9999-9999');
 INSERT INTO fornecedor (nome, telefone) VALUES ('Bigsoft', '(12) 8888-8888');
